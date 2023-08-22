@@ -1,0 +1,22 @@
+/* DateFilter.css */
+.filter-button {
+    background-color: rgb(245, 186, 8) !important;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.filter-button:hover {
+    background-color: rgba(223, 196, 134, 0.74) !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+.picker {
+    border-radius: 5px 0px 0px 5px;
+}
+
+.date-filter {
+    gap: 10px;
+
+}
